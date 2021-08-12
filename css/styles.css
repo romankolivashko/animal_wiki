@@ -8,3 +8,9 @@
 .btn {
   margin: 7px;
 }
+
+body {
+  max-width: 700px;
+  margin: auto;
+  padding-top: 50px;
+}
