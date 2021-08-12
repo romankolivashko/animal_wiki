@@ -15,6 +15,18 @@ body {
   padding-top: 50px;
 }
 
+#lion_text {
+  display: none;
+}
+
+#zebra_text {
+  display: none;
+}
+
+#giraffe_text {
+  display: none;
+}
+
 
 .jumbotron {
   background-color: #b3b086;
