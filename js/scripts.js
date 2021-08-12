@@ -1,6 +1,7 @@
 
 $(document).ready(function() {
-  const animal = prompt("Lion, Zebra or Giraffe?");
+  let animal = prompt("Lion, Zebra or Giraffe?");
+  animal = animal.toLocaleLowerCase();
 
   if (animal === "lion") {
     $('#lion_text').show();
