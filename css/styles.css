@@ -14,3 +14,12 @@ body {
   margin: auto;
   padding-top: 50px;
 }
+
+
+.jumbotron {
+  background-color: #b3b086;
+}
+
+.card {
+  background-color: #ece686;
+}
